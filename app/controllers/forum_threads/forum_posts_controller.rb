@@ -1,0 +1,2 @@
+class ForumPost < ApplicationController
+end
