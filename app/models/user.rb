@@ -39,7 +39,7 @@ class User < ActiveRecord::Base
     if deleted_at?
       "Deleted user"
     else
-      #{first_name} #{last_name}
+      "#{first_name} #{last_name}"
     end
   end
 end
