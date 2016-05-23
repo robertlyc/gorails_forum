@@ -35,6 +35,7 @@ gem 'html-pipeline'
 gem 'github-markdown'
 gem 'gemoji'
 gem 'sanitize'
+gem 'paranoia'
 
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
